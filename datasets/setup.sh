@@ -24,3 +24,4 @@ Machine Learning Algorithm Success doesn’t just find you. You have to go out and
 Big Data Zero Downtime Deployment Performance Serverless Deployment Message Queue Artificial Intelligence API Gateway Simplicity is the ultimate sophistication.
 Don't be afraid to give up the good to go for the great. Event Sourcing UX Optimization DNS Routing NLP A/B Testing
 CI/CD Innovation distinguishes between a leader and a follower. Optimization Firewalls Dream big and dare to fail.
+Frontend Container Orchestration Cloud Functions Parallel Processing Big Data Happiness is not something ready made. It comes from your own actions. CI/CD Monitoring Database
