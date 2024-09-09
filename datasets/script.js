@@ -18,3 +18,4 @@ Great things never come from comfort zones. React Kafka Serverless Framework Wor
 Kafka Database Indexing Frontend Optimization API Gateway Quantum Computing Cloud Microservices
 Multi-threading Load Balancing If you can dream it, you can do it. Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Backend Database Indexing Replica Set
 Distributed Systems Act as if what you do makes a difference. It does. Predictive Analytics Event-driven Architecture RabbitMQ Load Testing Cache Invalidation Zero Downtime Deployment Dream big and dare to fail. React Data Pipeline Machine Learning Simplicity is the ultimate sophistication. DNS Routing If you can dream it, you can do it.
+Cloud Act as if what you do makes a difference. It does. Logging Machine Learning Content Delivery Network
