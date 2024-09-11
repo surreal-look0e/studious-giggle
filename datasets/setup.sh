@@ -23,3 +23,4 @@ Simplicity is the ultimate sophistication. IoT API Gateway Event-driven Architec
 Machine Learning Algorithm Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Kubernetes Act as if what you do makes a difference. It does.
 Big Data Zero Downtime Deployment Performance Serverless Deployment Message Queue Artificial Intelligence API Gateway Simplicity is the ultimate sophistication.
 Don't be afraid to give up the good to go for the great. Event Sourcing UX Optimization DNS Routing NLP A/B Testing
+CI/CD Innovation distinguishes between a leader and a follower. Optimization Firewalls Dream big and dare to fail.
