@@ -13,3 +13,4 @@ Happiness is not something ready made. It comes from your own actions. Load Test
 Load Balancing Kafka Server Response API Code Review Big Data
 Load Testing Load Balancing Container Orchestration Framework CI/CD A/B Testing Lambda Functions Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Scalability
 Work hard in silence, let your success be your noise. Backend Code Review Testing Containerization
+Innovation distinguishes between a leader and a follower. DNS Routing If you can dream it, you can do it. Event-driven Architecture Python DevOps Cloud Pull Request Framework Docker Security Logging API Gateway
