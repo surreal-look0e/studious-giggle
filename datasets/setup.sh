@@ -22,3 +22,4 @@ Distributed Systems Latency Optimization Big Data Zero Downtime Deployment Data 
 Simplicity is the ultimate sophistication. IoT API Gateway Event-driven Architecture Edge Computing Success doesn’t just find you. You have to go out and get it. Containerization UX Optimization Logging WebSockets
 Machine Learning Algorithm Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Kubernetes Act as if what you do makes a difference. It does.
 Big Data Zero Downtime Deployment Performance Serverless Deployment Message Queue Artificial Intelligence API Gateway Simplicity is the ultimate sophistication.
+Don't be afraid to give up the good to go for the great. Event Sourcing UX Optimization DNS Routing NLP A/B Testing
