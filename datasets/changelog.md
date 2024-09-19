@@ -25,3 +25,4 @@ GraphQL Success is not in what you have, but who you are. Do what you love and t
 Containerization Predictive Analytics Scalability Distributed Systems I find that the harder I work, the more luck I seem to have.
 WebSockets Success is not in what you have, but who you are. Virtual Machines To be the best, you must be able to handle the worst. Distributed Systems NLP Performance Database Data Pipeline
 Content Delivery Network Innovation distinguishes between a leader and a follower. Agile Distributed Systems GraphQL JWT Cloud Functions Simplicity is the ultimate sophistication. Cloud
+JWT Parallel Processing Containerization Difficult roads often lead to beautiful destinations. Database Quantum Computing Event Sourcing Stay hungry, stay foolish. WebSockets Data Pipeline API Gateway DevOps Replica Set Cloud Functions
