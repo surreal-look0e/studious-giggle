@@ -30,3 +30,4 @@ Serverless Happiness is not something ready made. It comes from your own actions
 Cache Invalidation API Gateway Security DevOps Scalability Replica Set Load Testing If you can dream it, you can do it. Success is not in what you have, but who you are.
 Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Predictive Analytics Microservices Agile CI/CD
 Security API Gateway Parallel Processing Pull Request Edge Computing Server Response Neural Networks API
+Artificial Intelligence Message Queue Distributed Systems Microservices Python Event Sourcing
