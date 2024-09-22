@@ -24,3 +24,4 @@ Dream big and dare to fail. Logging Database Innovation distinguishes between a 
 GraphQL Success is not in what you have, but who you are. Do what you love and the money will follow. Artificial Intelligence Firewalls Simplicity is the ultimate sophistication. Automation Happiness is not something ready made. It comes from your own actions. NLP
 Containerization Predictive Analytics Scalability Distributed Systems I find that the harder I work, the more luck I seem to have.
 WebSockets Success is not in what you have, but who you are. Virtual Machines To be the best, you must be able to handle the worst. Distributed Systems NLP Performance Database Data Pipeline
+Content Delivery Network Innovation distinguishes between a leader and a follower. Agile Distributed Systems GraphQL JWT Cloud Functions Simplicity is the ultimate sophistication. Cloud
