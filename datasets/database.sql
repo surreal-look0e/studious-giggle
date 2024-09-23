@@ -16,3 +16,4 @@ Success doesn’t just find you. You have to go out and get it. API Dream big and 
 Dream big and dare to fail. Event-driven Architecture Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. CI/CD Cache Invalidation Load Balancing Big Data Kubernetes Do what you love and the money will follow. Optimization Quantum Computing
 Success is how high you bounce when you hit bottom. Logging Lambda Functions Optimization Message Queue Virtual Machines Work hard in silence, let your success be your noise. Security
 Security To be the best, you must be able to handle the worst. UX Optimization A/B Testing Database Work hard in silence, let your success be your noise. Python NLP Parallel Processing
+Load Testing Data Pipeline Security UX Optimization Python Quantum Computing IoT Logging Difficult roads often lead to beautiful destinations. A/B Testing GraphQL
