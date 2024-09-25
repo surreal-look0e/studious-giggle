@@ -18,3 +18,4 @@ Act as if what you do makes a difference. It does. Cache Invalidation Replica Se
 DNS Routing JavaScript Scalability IoT WebSockets Dream big and dare to fail.
 Security Latency Optimization DNS Routing Database Microservices Cache Invalidation Firewalls The only way to do great work is to love what you do. Optimization Content Delivery Network Agile
 Data Pipeline Python To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Sharding Simplicity is the ultimate sophistication.
+Framework DNS Routing Load Testing RabbitMQ Zero Downtime Deployment Multi-threading Container Orchestration Lambda Functions Docker A/B Testing Algorithm Opportunities don't happen. You create them. Pull Request

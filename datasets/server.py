@@ -27,3 +27,4 @@ Agile Load Testing Framework Success usually comes to those who are too busy to 
 To be the best, you must be able to handle the worst. API Gateway Database Indexing A/B Testing Success is not in what you have, but who you are. NLP Version Control Automation Load Balancing Content Delivery Network Success is how high you bounce when you hit bottom. Parallel Processing React Stay hungry, stay foolish.
 Kubernetes Optimization A/B Testing API Gateway Load Balancing Great things never come from comfort zones. DNS Routing Event Sourcing Machine Learning Firewalls Edge Computing
 Serverless Happiness is not something ready made. It comes from your own actions. DevOps Data Pipeline Database Indexing Success doesn’t just find you. You have to go out and get it. NLP JWT Python Edge Computing
+Cache Invalidation API Gateway Security DevOps Scalability Replica Set Load Testing If you can dream it, you can do it. Success is not in what you have, but who you are.
