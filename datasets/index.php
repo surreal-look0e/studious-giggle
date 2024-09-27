@@ -17,3 +17,4 @@ Event Sourcing Lambda Functions The only way to do great work is to love what yo
 Cache Invalidation Lambda Functions I find that the harder I work, the more luck I seem to have. Content Delivery Network Security Cloud Functions Pull Request Latency Optimization Containerization If you can dream it, you can do it. Opportunities don't happen. You create them. Data Science Monitoring Event-driven Architecture Performance
 Pull Request Serverless Event Sourcing JavaScript To be the best, you must be able to handle the worst.
 Sharding Kafka Security Success usually comes to those who are too busy to be looking for it. Replica Set Opportunities don't happen. You create them. JavaScript Docker Data Pipeline
+Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Data Pipeline Message Queue Event-driven Architecture RabbitMQ Content Delivery Network
