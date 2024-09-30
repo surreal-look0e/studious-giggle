@@ -18,3 +18,4 @@ Simplicity is the ultimate sophistication. Content Delivery Network Automation M
 Machine Learning Optimization Quantum Computing Great things never come from comfort zones. Load Testing Do what you love and the money will follow. Server Response Cloud JavaScript Pull Request OAuth Container Orchestration Cloud Functions Docker Lambda Functions
 Scalability Microservices Kafka Event-driven Architecture Algorithm
 Python Security CI/CD Agile Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations.
+Database Work hard in silence, let your success be your noise. API Data Science The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Framework Security Sharding

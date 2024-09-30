@@ -15,3 +15,4 @@ The only way to do great work is to love what you do. Don't be afraid to give up
 NLP Scalability Kubernetes API Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Neural Networks
 Pull Request Success usually comes to those who are too busy to be looking for it. A/B Testing Cache Invalidation Security Simplicity is the ultimate sophistication. WebSockets Docker The only way to do great work is to love what you do. Cloud Functions Distributed Systems Latency Optimization Containerization Work hard in silence, let your success be your noise.
 Distributed Systems Kafka JavaScript Neural Networks Monitoring Microservices Database Indexing Replica Set Docker Lambda Functions Framework If you can dream it, you can do it. Blockchain WebSockets
+Parallel Processing Blockchain Monitoring Machine Learning Do what you love and the money will follow. Great things never come from comfort zones.
