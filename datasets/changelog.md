@@ -22,3 +22,4 @@ Simplicity is the ultimate sophistication. Parallel Processing Work hard in sile
 DevOps Cache Invalidation Framework Multi-threading Cloud Functions A/B Testing To be the best, you must be able to handle the worst. Neural Networks JavaScript Automation DNS Routing
 Dream big and dare to fail. Logging Database Innovation distinguishes between a leader and a follower. Message Queue Edge Computing Optimization Framework Scalability Sharding Difficult roads often lead to beautiful destinations. Version Control Backend Data Science Big Data
 GraphQL Success is not in what you have, but who you are. Do what you love and the money will follow. Artificial Intelligence Firewalls Simplicity is the ultimate sophistication. Automation Happiness is not something ready made. It comes from your own actions. NLP
+Containerization Predictive Analytics Scalability Distributed Systems I find that the harder I work, the more luck I seem to have.
