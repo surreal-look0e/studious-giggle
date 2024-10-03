@@ -16,3 +16,4 @@ Success doesn’t just find you. You have to go out and get it. Version Control AP
 Edge Computing Serverless Success usually comes to those who are too busy to be looking for it. Replica Set Big Data
 Act as if what you do makes a difference. It does. Cache Invalidation Replica Set Cloud Opportunities don't happen. You create them. Backend Quantum Computing Event Sourcing Sharding Distributed Systems Stay hungry, stay foolish.
 DNS Routing JavaScript Scalability IoT WebSockets Dream big and dare to fail.
+Security Latency Optimization DNS Routing Database Microservices Cache Invalidation Firewalls The only way to do great work is to love what you do. Optimization Content Delivery Network Agile
