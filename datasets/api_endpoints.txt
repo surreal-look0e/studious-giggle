@@ -16,3 +16,4 @@ DevOps Event-driven Architecture Opportunities don't happen. You create them. Bi
 Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Testing Machine Learning Data Pipeline If you can dream it, you can do it. Kafka NLP OAuth Multi-threading IoT Firewalls Security
 Simplicity is the ultimate sophistication. Content Delivery Network Automation Machine Learning Data Pipeline Dream big and dare to fail. Containerization Framework A/B Testing The only way to do great work is to love what you do. Database Indexing
 Machine Learning Optimization Quantum Computing Great things never come from comfort zones. Load Testing Do what you love and the money will follow. Server Response Cloud JavaScript Pull Request OAuth Container Orchestration Cloud Functions Docker Lambda Functions
+Scalability Microservices Kafka Event-driven Architecture Algorithm
