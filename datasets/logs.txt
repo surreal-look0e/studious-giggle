@@ -15,3 +15,4 @@ OAuth Microservices Backend Framework Neural Networks Replica Set IoT I find tha
 Success doesn’t just find you. You have to go out and get it. Version Control API Gateway Machine Learning IoT Do what you love and the money will follow. Stay hungry, stay foolish.
 Edge Computing Serverless Success usually comes to those who are too busy to be looking for it. Replica Set Big Data
 Act as if what you do makes a difference. It does. Cache Invalidation Replica Set Cloud Opportunities don't happen. You create them. Backend Quantum Computing Event Sourcing Sharding Distributed Systems Stay hungry, stay foolish.
+DNS Routing JavaScript Scalability IoT WebSockets Dream big and dare to fail.
