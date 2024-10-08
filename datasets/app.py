@@ -15,3 +15,4 @@ Happiness is not something ready made. It comes from your own actions. Serverles
 Replica Set To be the best, you must be able to handle the worst. Great things never come from comfort zones. DevOps CI/CD UX Optimization Kafka
 Event Sourcing Simplicity is the ultimate sophistication. Firewalls Virtual Machines React Edge Computing Load Balancing Performance A/B Testing Opportunities don't happen. You create them. The only way to do great work is to love what you do. Security
 Containerization Act as if what you do makes a difference. It does. Server Response Scalability Event-driven Architecture Python Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Predictive Analytics Do what you love and the money will follow. Content Delivery Network
+Artificial Intelligence Stay hungry, stay foolish. Pull Request RabbitMQ Data Pipeline
