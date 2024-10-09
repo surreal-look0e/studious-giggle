@@ -15,3 +15,4 @@ Multi-threading Don't be afraid to give up the good to go for the great. Success
 Scalability API JavaScript Difficult roads often lead to beautiful destinations. Dream big and dare to fail. DevOps Opportunities don't happen. You create them. Container Orchestration IoT Testing Event Sourcing Stay hungry, stay foolish.
 Event Sourcing Lambda Functions The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Python Cloud Functions Load Balancing
 Cache Invalidation Lambda Functions I find that the harder I work, the more luck I seem to have. Content Delivery Network Security Cloud Functions Pull Request Latency Optimization Containerization If you can dream it, you can do it. Opportunities don't happen. You create them. Data Science Monitoring Event-driven Architecture Performance
+Pull Request Serverless Event Sourcing JavaScript To be the best, you must be able to handle the worst.
