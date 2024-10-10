@@ -12,3 +12,4 @@ Do what you love and the money will follow. Blockchain Cache Invalidation Load T
 Latency Optimization Predictive Analytics Database Innovation distinguishes between a leader and a follower. Automation Event-driven Architecture Code Review
 Docker Automation Multi-threading Quantum Computing Database Indexing Cloud Sharding The only way to do great work is to love what you do. Kubernetes JavaScript
 If you can dream it, you can do it. Cloud Functions CI/CD Content Delivery Network Edge Computing Testing DevOps
+Code Review Scalability IoT Pull Request Predictive Analytics Algorithm React Frontend Cloud
