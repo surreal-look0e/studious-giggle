@@ -10,3 +10,4 @@ A/B Testing Do what you love and the money will follow. Kubernetes Automation UX
 Event-driven Architecture Great things never come from comfort zones. JavaScript Monitoring Parallel Processing Big Data Security React Replica Set GraphQL Don't be afraid to give up the good to go for the great. Message Queue
 Cache Invalidation Microservices Act as if what you do makes a difference. It does. Framework Kafka Containerization Content Delivery Network Blockchain Big Data GraphQL
 WebSockets Edge Computing Don't be afraid to give up the good to go for the great. Latency Optimization Scalability Testing Content Delivery Network Python Algorithm RabbitMQ Event Sourcing Docker API Gateway
+Sharding Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Logging Docker Work hard in silence, let your success be your noise. API Gateway The only way to do great work is to love what you do. CI/CD Performance Data Science GraphQL
