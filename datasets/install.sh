@@ -16,3 +16,4 @@ Data Pipeline Stay hungry, stay foolish. Algorithm WebSockets Sharding Database
 Virtual Machines JWT Success is not in what you have, but who you are. DNS Routing Dream big and dare to fail. React Big Data Agile Cloud Functions Distributed Systems
 Data Science Optimization Virtual Machines Security WebSockets Kafka Python Docker
 Code Review Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Testing Great things never come from comfort zones. Data Science Security Message Queue Agile
+Happiness is not something ready made. It comes from your own actions. Neural Networks Big Data Parallel Processing Kubernetes JWT Stay hungry, stay foolish. Pull Request GraphQL Predictive Analytics

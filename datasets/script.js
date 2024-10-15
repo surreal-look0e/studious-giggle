@@ -13,3 +13,4 @@ Multi-threading Python Kubernetes Database Server Response Success usually comes
 JavaScript Scalability Agile Stay hungry, stay foolish. JWT Opportunities don't happen. You create them. Container Orchestration Cloud Dream big and dare to fail. A/B Testing
 Virtual Machines JavaScript Success is not in what you have, but who you are. Content Delivery Network Stay hungry, stay foolish. Agile
 Success is how high you bounce when you hit bottom. Data Pipeline Server Response Performance Cloud Functions Virtual Machines React Database Latency Optimization I find that the harder I work, the more luck I seem to have. NLP Opportunities don't happen. You create them. Cloud GraphQL
+If you can dream it, you can do it. Event Sourcing Act as if what you do makes a difference. It does. Do what you love and the money will follow. IoT Python Latency Optimization Artificial Intelligence UX Optimization JavaScript Security
