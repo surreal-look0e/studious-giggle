@@ -16,3 +16,4 @@ Edge Computing Cache Invalidation GraphQL Python Latency Optimization React I fi
 Quantum Computing Message Queue Neural Networks Success is how high you bounce when you hit bottom. Parallel Processing DNS Routing Framework OAuth
 Neural Networks Code Review Success is not in what you have, but who you are. Deployment Pull Request
 DevOps API Gateway Backend Success usually comes to those who are too busy to be looking for it. Cloud Multi-threading Parallel Processing Containerization A/B Testing Server Response Act as if what you do makes a difference. It does. Kafka Don't be afraid to give up the good to go for the great.
+If you can dream it, you can do it. Opportunities don't happen. You create them. Artificial Intelligence Agile Latency Optimization Big Data Data Science

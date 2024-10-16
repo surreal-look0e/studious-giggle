@@ -23,3 +23,4 @@ Database DevOps The only way to do great work is to love what you do. Container 
 Opportunities don't happen. You create them. Dream big and dare to fail. Event-driven Architecture JWT NLP Don't be afraid to give up the good to go for the great. Deployment Container Orchestration
 Firewalls Code Review Server Response Containerization Deployment Success is not in what you have, but who you are. Monitoring
 API Container Orchestration Difficult roads often lead to beautiful destinations. Dream big and dare to fail. JavaScript Load Testing Kafka
+Agile Load Testing Framework Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. WebSockets Data Pipeline A/B Testing Stay hungry, stay foolish. Database Indexing Sharding Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Container Orchestration Cloud
