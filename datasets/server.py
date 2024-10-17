@@ -22,3 +22,4 @@ Success is how high you bounce when you hit bottom. Pull Request Great things ne
 Database DevOps The only way to do great work is to love what you do. Container Orchestration Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Event Sourcing DNS Routing Opportunities don't happen. You create them.
 Opportunities don't happen. You create them. Dream big and dare to fail. Event-driven Architecture JWT NLP Don't be afraid to give up the good to go for the great. Deployment Container Orchestration
 Firewalls Code Review Server Response Containerization Deployment Success is not in what you have, but who you are. Monitoring
+API Container Orchestration Difficult roads often lead to beautiful destinations. Dream big and dare to fail. JavaScript Load Testing Kafka
