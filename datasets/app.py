@@ -13,3 +13,4 @@ Data Science Dream big and dare to fail. Python Pull Request API Gateway Happine
 Security Database Indexing Cloud Sharding Version Control
 Happiness is not something ready made. It comes from your own actions. Serverless Load Balancing Success is how high you bounce when you hit bottom. API Gateway
 Replica Set To be the best, you must be able to handle the worst. Great things never come from comfort zones. DevOps CI/CD UX Optimization Kafka
+Event Sourcing Simplicity is the ultimate sophistication. Firewalls Virtual Machines React Edge Computing Load Balancing Performance A/B Testing Opportunities don't happen. You create them. The only way to do great work is to love what you do. Security
