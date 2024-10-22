@@ -12,3 +12,4 @@ IoT Monitoring Version Control Algorithm A/B Testing WebSockets CI/CD Success us
 Kafka Work hard in silence, let your success be your noise. RabbitMQ Virtual Machines Firewalls Sharding The only way to do great work is to love what you do. UX Optimization If you can dream it, you can do it. Neural Networks Deployment Opportunities don't happen. You create them.
 Multi-threading Data Pipeline WebSockets Replica Set RabbitMQ JavaScript Great things never come from comfort zones. Code Review
 The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Microservices Framework Python A/B Testing Cache Invalidation Do what you love and the money will follow. Work hard in silence, let your success be your noise. Event Sourcing Automation Predictive Analytics
+NLP Scalability Kubernetes API Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Neural Networks
