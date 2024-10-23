@@ -11,3 +11,4 @@ Container Orchestration Work hard in silence, let your success be your noise. Fi
 Framework Version Control Big Data DNS Routing Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. React
 Multi-threading Python Kubernetes Database Server Response Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Backend Agile Act as if what you do makes a difference. It does. API
 JavaScript Scalability Agile Stay hungry, stay foolish. JWT Opportunities don't happen. You create them. Container Orchestration Cloud Dream big and dare to fail. A/B Testing
+Virtual Machines JavaScript Success is not in what you have, but who you are. Content Delivery Network Stay hungry, stay foolish. Agile
