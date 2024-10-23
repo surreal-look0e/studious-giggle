@@ -14,3 +14,4 @@ Big Data Event-driven Architecture Load Balancing Monitoring Blockchain Database
 Serverless Algorithm Performance Machine Learning Success is not in what you have, but who you are. Quantum Computing Data Science A/B Testing API Gateway JavaScript
 DevOps Event-driven Architecture Opportunities don't happen. You create them. Big Data Simplicity is the ultimate sophistication. CI/CD Artificial Intelligence Version Control Act as if what you do makes a difference. It does.
 Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Testing Machine Learning Data Pipeline If you can dream it, you can do it. Kafka NLP OAuth Multi-threading IoT Firewalls Security
+Simplicity is the ultimate sophistication. Content Delivery Network Automation Machine Learning Data Pipeline Dream big and dare to fail. Containerization Framework A/B Testing The only way to do great work is to love what you do. Database Indexing
