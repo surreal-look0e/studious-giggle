@@ -21,3 +21,4 @@ Virtual Machines Security Backend Stay hungry, stay foolish. WebSockets Do what 
 Version Control Act as if what you do makes a difference. It does. NLP A/B Testing Python Database
 Logging Blockchain Microservices Algorithm Lambda Functions Cache Invalidation JWT Edge Computing Latency Optimization Work hard in silence, let your success be your noise. Replica Set WebSockets
 If you can dream it, you can do it. API Gateway Quantum Computing Frontend Microservices Edge Computing Parallel Processing Firewalls Event-driven Architecture Success is how high you bounce when you hit bottom. Containerization DNS Routing Kubernetes Cache Invalidation
+Framework Load Balancing API Gateway Sharding Don't be afraid to give up the good to go for the great. Neural Networks Load Testing Do what you love and the money will follow. Pull Request Multi-threading
