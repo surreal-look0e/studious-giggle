@@ -17,3 +17,4 @@ OAuth JavaScript Predictive Analytics Innovation distinguishes between a leader 
 Sharding Act as if what you do makes a difference. It does. JavaScript Scalability Testing Machine Learning CI/CD Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. IoT
 If you can dream it, you can do it. Optimization Backend Distributed Systems Database Happiness is not something ready made. It comes from your own actions. Firewalls Artificial Intelligence
 Big Data Deployment Microservices Monitoring I find that the harder I work, the more luck I seem to have. Event Sourcing DevOps Docker Blockchain
+Success usually comes to those who are too busy to be looking for it. API Microservices Virtual Machines Optimization Content Delivery Network Stay hungry, stay foolish. Frontend
