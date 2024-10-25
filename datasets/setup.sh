@@ -19,3 +19,4 @@ CI/CD Agile Quantum Computing Frontend Framework Automation Opportunities don't 
 Predictive Analytics Automation Great things never come from comfort zones. Performance Distributed Systems
 Difficult roads often lead to beautiful destinations. Parallel Processing Container Orchestration Version Control Cloud Great things never come from comfort zones. Virtual Machines
 Distributed Systems Latency Optimization Big Data Zero Downtime Deployment Data Pipeline Predictive Analytics Docker Success is how high you bounce when you hit bottom. Cloud Event Sourcing Code Review Replica Set Cloud Functions Server Response Sharding
+Simplicity is the ultimate sophistication. IoT API Gateway Event-driven Architecture Edge Computing Success doesn’t just find you. You have to go out and get it. Containerization UX Optimization Logging WebSockets
