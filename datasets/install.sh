@@ -13,3 +13,4 @@ Dream big and dare to fail. Lambda Functions Happiness is not something ready ma
 JWT Do what you love and the money will follow. Load Testing Distributed Systems Scalability Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Version Control Machine Learning Framework Logging Firewalls Data Pipeline
 Agile RabbitMQ If you can dream it, you can do it. API Gateway Database Indexing Neural Networks Frontend Do what you love and the money will follow. Container Orchestration To be the best, you must be able to handle the worst. Backend Data Pipeline
 Data Pipeline Stay hungry, stay foolish. Algorithm WebSockets Sharding Database
+Virtual Machines JWT Success is not in what you have, but who you are. DNS Routing Dream big and dare to fail. React Big Data Agile Cloud Functions Distributed Systems
