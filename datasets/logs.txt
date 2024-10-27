@@ -11,3 +11,4 @@ Virtual Machines Cache Invalidation Code Review Kubernetes Zero Downtime Deploym
 Distributed Systems JavaScript Lambda Functions Big Data React Sharding IoT NLP Pull Request API Gateway
 Logging Testing Container Orchestration Innovation distinguishes between a leader and a follower. NLP Optimization React Content Delivery Network Happiness is not something ready made. It comes from your own actions. Sharding Success is how high you bounce when you hit bottom. Load Balancing
 Machine Learning Great things never come from comfort zones. Replica Set Load Testing Cache Invalidation Stay hungry, stay foolish. Artificial Intelligence Sharding Microservices Predictive Analytics Optimization Event Sourcing Kubernetes DevOps I find that the harder I work, the more luck I seem to have.
+OAuth Microservices Backend Framework Neural Networks Replica Set IoT I find that the harder I work, the more luck I seem to have.
