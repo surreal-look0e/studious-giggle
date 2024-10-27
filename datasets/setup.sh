@@ -18,3 +18,4 @@ CI/CD Data Pipeline Opportunities don't happen. You create them. Load Testing Se
 CI/CD Agile Quantum Computing Frontend Framework Automation Opportunities don't happen. You create them. Security
 Predictive Analytics Automation Great things never come from comfort zones. Performance Distributed Systems
 Difficult roads often lead to beautiful destinations. Parallel Processing Container Orchestration Version Control Cloud Great things never come from comfort zones. Virtual Machines
+Distributed Systems Latency Optimization Big Data Zero Downtime Deployment Data Pipeline Predictive Analytics Docker Success is how high you bounce when you hit bottom. Cloud Event Sourcing Code Review Replica Set Cloud Functions Server Response Sharding
