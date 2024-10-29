@@ -9,3 +9,4 @@ Quantum Computing Artificial Intelligence DevOps API Gateway Do what you love an
 Agile Difficult roads often lead to beautiful destinations. Latency Optimization WebSockets If you can dream it, you can do it. Artificial Intelligence Load Balancing Dream big and dare to fail. NLP Content Delivery Network Kubernetes Virtual Machines Message Queue Event-driven Architecture
 Virtual Machines Cache Invalidation Code Review Kubernetes Zero Downtime Deployment Automation Success doesn’t just find you. You have to go out and get it.
 Distributed Systems JavaScript Lambda Functions Big Data React Sharding IoT NLP Pull Request API Gateway
+Logging Testing Container Orchestration Innovation distinguishes between a leader and a follower. NLP Optimization React Content Delivery Network Happiness is not something ready made. It comes from your own actions. Sharding Success is how high you bounce when you hit bottom. Load Balancing
