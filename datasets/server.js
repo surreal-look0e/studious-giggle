@@ -9,3 +9,4 @@ Zero Downtime Deployment RabbitMQ Act as if what you do makes a difference. It d
 Kafka Monitoring Quantum Computing Optimization Lambda Functions Act as if what you do makes a difference. It does.
 OAuth Containerization To be the best, you must be able to handle the worst. Content Delivery Network Cloud Functions Multi-threading Replica Set Quantum Computing Agile Performance Work hard in silence, let your success be your noise. Testing
 Testing JWT WebSockets React Version Control Backend JavaScript RabbitMQ
+Happiness is not something ready made. It comes from your own actions. Load Testing GraphQL Opportunities don't happen. You create them. Latency Optimization Security JWT WebSockets Success is not in what you have, but who you are. Version Control Testing Cloud Functions
