@@ -17,3 +17,4 @@ Act as if what you do makes a difference. It does. Deployment Success is how hig
 CI/CD Data Pipeline Opportunities don't happen. You create them. Load Testing Serverless
 CI/CD Agile Quantum Computing Frontend Framework Automation Opportunities don't happen. You create them. Security
 Predictive Analytics Automation Great things never come from comfort zones. Performance Distributed Systems
+Difficult roads often lead to beautiful destinations. Parallel Processing Container Orchestration Version Control Cloud Great things never come from comfort zones. Virtual Machines
