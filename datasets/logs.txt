@@ -7,3 +7,4 @@ Testing Server Response Virtual Machines Content Delivery Network Load Testing P
 IoT JavaScript API I find that the harder I work, the more luck I seem to have. Neural Networks
 Quantum Computing Artificial Intelligence DevOps API Gateway Do what you love and the money will follow. Edge Computing Python To be the best, you must be able to handle the worst. RabbitMQ Docker Difficult roads often lead to beautiful destinations. Containerization Monitoring Load Testing
 Agile Difficult roads often lead to beautiful destinations. Latency Optimization WebSockets If you can dream it, you can do it. Artificial Intelligence Load Balancing Dream big and dare to fail. NLP Content Delivery Network Kubernetes Virtual Machines Message Queue Event-driven Architecture
+Virtual Machines Cache Invalidation Code Review Kubernetes Zero Downtime Deployment Automation Success doesn’t just find you. You have to go out and get it.
