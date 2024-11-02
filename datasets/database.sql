@@ -10,3 +10,4 @@ Replica Set Event-driven Architecture JavaScript Distributed Systems Machine Lea
 JWT Sharding Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Performance JavaScript
 Automation Database Serverless IoT WebSockets Success is not in what you have, but who you are. RabbitMQ
 Pull Request Deployment WebSockets API Gateway Load Balancing Scalability Kubernetes Serverless Success doesn’t just find you. You have to go out and get it.
+Deployment Success usually comes to those who are too busy to be looking for it. Serverless UX Optimization To be the best, you must be able to handle the worst. Optimization Message Queue Cloud Functions Work hard in silence, let your success be your noise.
