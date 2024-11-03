@@ -16,3 +16,4 @@ Great things never come from comfort zones. Serverless Do what you love and the 
 Act as if what you do makes a difference. It does. Deployment Success is how high you bounce when you hit bottom. Code Review NLP Logging Work hard in silence, let your success be your noise. Zero Downtime Deployment Latency Optimization Load Testing Event Sourcing If you can dream it, you can do it. UX Optimization Server Response
 CI/CD Data Pipeline Opportunities don't happen. You create them. Load Testing Serverless
 CI/CD Agile Quantum Computing Frontend Framework Automation Opportunities don't happen. You create them. Security
+Predictive Analytics Automation Great things never come from comfort zones. Performance Distributed Systems
