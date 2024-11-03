@@ -13,3 +13,4 @@ To be the best, you must be able to handle the worst. Content Delivery Network M
 Server Response Serverless If you can dream it, you can do it. Load Balancing Algorithm The only way to do great work is to love what you do.
 Quantum Computing Serverless Distributed Systems Event-driven Architecture Virtual Machines JavaScript Firewalls Load Balancing
 Virtual Machines A/B Testing Edge Computing Work hard in silence, let your success be your noise. API Lambda Functions Scalability Firewalls Monitoring Happiness is not something ready made. It comes from your own actions. Performance API Gateway Automation Event-driven Architecture Optimization
+JavaScript NLP Artificial Intelligence Database Indexing Predictive Analytics Server Response Stay hungry, stay foolish. Serverless Sharding Logging Performance Blockchain
