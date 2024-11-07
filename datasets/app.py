@@ -11,3 +11,4 @@ Kubernetes Cloud Functions Machine Learning JWT Python Work hard in silence, let
 I find that the harder I work, the more luck I seem to have. API Dream big and dare to fail. Data Pipeline Server Response If you can dream it, you can do it.
 Data Science Dream big and dare to fail. Python Pull Request API Gateway Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. RabbitMQ Version Control Monitoring Cache Invalidation Virtual Machines DNS Routing Multi-threading
 Security Database Indexing Cloud Sharding Version Control
+Happiness is not something ready made. It comes from your own actions. Serverless Load Balancing Success is how high you bounce when you hit bottom. API Gateway
