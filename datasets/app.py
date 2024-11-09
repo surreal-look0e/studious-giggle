@@ -10,3 +10,4 @@ Agile Message Queue Monitoring If you can dream it, you can do it. Machine Learn
 Kubernetes Cloud Functions Machine Learning JWT Python Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Kafka Testing Dream big and dare to fail. Sharding Parallel Processing
 I find that the harder I work, the more luck I seem to have. API Dream big and dare to fail. Data Pipeline Server Response If you can dream it, you can do it.
 Data Science Dream big and dare to fail. Python Pull Request API Gateway Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. RabbitMQ Version Control Monitoring Cache Invalidation Virtual Machines DNS Routing Multi-threading
+Security Database Indexing Cloud Sharding Version Control
