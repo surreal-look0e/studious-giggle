@@ -12,3 +12,4 @@ Neural Networks Multi-threading Kafka Replica Set Message Queue API Latency Opti
 Load Balancing Algorithm OAuth Docker Monitoring Opportunities don't happen. You create them. Virtual Machines Success is not in what you have, but who you are. Firewalls NLP Don't be afraid to give up the good to go for the great. Containerization Optimization Cloud Functions
 Big Data Event-driven Architecture Load Balancing Monitoring Blockchain Database Indexing API Success usually comes to those who are too busy to be looking for it.
 Serverless Algorithm Performance Machine Learning Success is not in what you have, but who you are. Quantum Computing Data Science A/B Testing API Gateway JavaScript
+DevOps Event-driven Architecture Opportunities don't happen. You create them. Big Data Simplicity is the ultimate sophistication. CI/CD Artificial Intelligence Version Control Act as if what you do makes a difference. It does.
