@@ -10,3 +10,4 @@ Great things never come from comfort zones. Logging Testing Performance Server R
 WebSockets Load Balancing Database IoT Database Indexing Stay hungry, stay foolish. Microservices Happiness is not something ready made. It comes from your own actions. OAuth React
 OAuth GraphQL API UX Optimization DevOps
 Code Review Containerization Kubernetes Server Response Algorithm Agile Cloud Quantum Computing Don't be afraid to give up the good to go for the great. CI/CD
+Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. JWT Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. API Gateway Automation
