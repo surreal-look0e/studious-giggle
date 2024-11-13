@@ -8,3 +8,4 @@ Kubernetes Cloud Functions Difficult roads often lead to beautiful destinations.
 DNS Routing Cloud To be the best, you must be able to handle the worst. Data Pipeline API Predictive Analytics Containerization Parallel Processing Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Serverless Sharding Pull Request
 Algorithm Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Event-driven Architecture Artificial Intelligence Message Queue Predictive Analytics Code Review Serverless Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication.
 Container Orchestration Work hard in silence, let your success be your noise. Firewalls Cloud Framework Cloud Functions
+Framework Version Control Big Data DNS Routing Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. React
