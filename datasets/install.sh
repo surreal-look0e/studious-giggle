@@ -9,3 +9,4 @@ Data Pipeline CI/CD Don't be afraid to give up the good to go for the great. Loa
 Success usually comes to those who are too busy to be looking for it. Firewalls Stay hungry, stay foolish. Parallel Processing DevOps Testing Frontend Server Response Dream big and dare to fail. Artificial Intelligence Big Data React Containerization Multi-threading
 Simplicity is the ultimate sophistication. Code Review IoT RabbitMQ Big Data Zero Downtime Deployment
 Parallel Processing Optimization Microservices Act as if what you do makes a difference. It does. API Gateway Container Orchestration React DevOps WebSockets
+Dream big and dare to fail. Lambda Functions Happiness is not something ready made. It comes from your own actions. API Automation Distributed Systems Multi-threading CI/CD Database Containerization Container Orchestration
