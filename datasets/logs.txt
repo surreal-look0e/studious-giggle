@@ -5,3 +5,4 @@ To be the best, you must be able to handle the worst. Agile IoT Success is how h
 JavaScript Difficult roads often lead to beautiful destinations. Quantum Computing Distributed Systems Cloud Success is how high you bounce when you hit bottom. GraphQL Optimization Code Review Algorithm Opportunities don't happen. You create them.
 Testing Server Response Virtual Machines Content Delivery Network Load Testing Performance Do what you love and the money will follow.
 IoT JavaScript API I find that the harder I work, the more luck I seem to have. Neural Networks
+Quantum Computing Artificial Intelligence DevOps API Gateway Do what you love and the money will follow. Edge Computing Python To be the best, you must be able to handle the worst. RabbitMQ Docker Difficult roads often lead to beautiful destinations. Containerization Monitoring Load Testing
