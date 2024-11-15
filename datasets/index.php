@@ -9,3 +9,4 @@ Security Automation DNS Routing If you can dream it, you can do it. JavaScript Z
 Great things never come from comfort zones. Logging Testing Performance Server Response Scalability WebSockets GraphQL Blockchain
 WebSockets Load Balancing Database IoT Database Indexing Stay hungry, stay foolish. Microservices Happiness is not something ready made. It comes from your own actions. OAuth React
 OAuth GraphQL API UX Optimization DevOps
+Code Review Containerization Kubernetes Server Response Algorithm Agile Cloud Quantum Computing Don't be afraid to give up the good to go for the great. CI/CD
