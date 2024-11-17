@@ -6,3 +6,4 @@ Scalability Artificial Intelligence Algorithm Deployment Event-driven Architectu
 Big Data Opportunities don't happen. You create them. WebSockets Version Control Replica Set Agile Scalability Python
 NLP Event Sourcing Replica Set Scalability GraphQL Serverless Machine Learning The only way to do great work is to love what you do. Automation
 Load Testing API Gateway Great things never come from comfort zones. Work hard in silence, let your success be your noise. Virtual Machines WebSockets DNS Routing Version Control Data Science Quantum Computing CI/CD Database Deployment API Machine Learning
+Kubernetes Quantum Computing Do what you love and the money will follow. Predictive Analytics Latency Optimization Containerization Multi-threading Success doesn’t just find you. You have to go out and get it. Security Sharding Monitoring Firewalls Deployment Logging To be the best, you must be able to handle the worst.
