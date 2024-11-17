@@ -9,3 +9,4 @@ Success is how high you bounce when you hit bottom. Firewalls I find that the ha
 Replica Set Event-driven Architecture JavaScript Distributed Systems Machine Learning Server Response
 JWT Sharding Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Performance JavaScript
 Automation Database Serverless IoT WebSockets Success is not in what you have, but who you are. RabbitMQ
+Pull Request Deployment WebSockets API Gateway Load Balancing Scalability Kubernetes Serverless Success doesn’t just find you. You have to go out and get it.

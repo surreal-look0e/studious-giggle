@@ -18,3 +18,4 @@ Serverless Pull Request Work hard in silence, let your success be your noise. Pr
 Load Testing Zero Downtime Deployment If you can dream it, you can do it. Predictive Analytics Server Response Microservices Success is how high you bounce when you hit bottom.
 Logging Stay hungry, stay foolish. Automation Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Cloud Agile
 Work hard in silence, let your success be your noise. Great things never come from comfort zones. Distributed Systems To be the best, you must be able to handle the worst. Blockchain Algorithm
+Success is how high you bounce when you hit bottom. Pull Request Great things never come from comfort zones. Content Delivery Network Neural Networks
