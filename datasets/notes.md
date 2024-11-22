@@ -10,3 +10,4 @@ Logging Database Indexing I find that the harder I work, the more luck I seem to
 Monitoring Database Indexing Neural Networks RabbitMQ Load Testing Blockchain Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication.
 JWT Multi-threading Predictive Analytics Kafka Backend Event Sourcing To be the best, you must be able to handle the worst. Machine Learning Server Response I find that the harder I work, the more luck I seem to have. Frontend Happiness is not something ready made. It comes from your own actions. A/B Testing Blockchain
 To be the best, you must be able to handle the worst. Content Delivery Network Message Queue Code Review Docker Algorithm JWT Success doesn’t just find you. You have to go out and get it. Scalability Optimization Cloud Functions
+Server Response Serverless If you can dream it, you can do it. Load Balancing Algorithm The only way to do great work is to love what you do.
