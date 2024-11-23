@@ -16,3 +16,4 @@ Predictive Analytics RabbitMQ Data Science Replica Set JavaScript Success is how
 Scalability OAuth Sharding Replica Set Success doesn’t just find you. You have to go out and get it. Serverless Kafka If you can dream it, you can do it. Dream big and dare to fail. Optimization Neural Networks
 Serverless Pull Request Work hard in silence, let your success be your noise. Predictive Analytics Monitoring WebSockets Big Data
 Load Testing Zero Downtime Deployment If you can dream it, you can do it. Predictive Analytics Server Response Microservices Success is how high you bounce when you hit bottom.
+Logging Stay hungry, stay foolish. Automation Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Cloud Agile
