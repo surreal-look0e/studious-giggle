@@ -12,3 +12,4 @@ Dream big and dare to fail. Content Delivery Network Happiness is not something 
 Security Microservices Zero Downtime Deployment Message Queue Quantum Computing Scalability Docker IoT Artificial Intelligence Algorithm Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. API Gateway Machine Learning
 DNS Routing Microservices Message Queue Predictive Analytics Firewalls Backend WebSockets Event Sourcing Serverless
 Serverless Python Big Data Docker Algorithm Do what you love and the money will follow. Kafka Event Sourcing JavaScript Replica Set
+Edge Computing Cache Invalidation GraphQL Python Latency Optimization React I find that the harder I work, the more luck I seem to have. Security Serverless Neural Networks Docker
