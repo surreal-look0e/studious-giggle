@@ -15,3 +15,4 @@ Kafka Data Science UX Optimization Security CI/CD Replica Set NLP Machine Learni
 Predictive Analytics RabbitMQ Data Science Replica Set JavaScript Success is how high you bounce when you hit bottom. Deployment Load Testing Cache Invalidation Server Response Big Data API Edge Computing NLP
 Scalability OAuth Sharding Replica Set Success doesn’t just find you. You have to go out and get it. Serverless Kafka If you can dream it, you can do it. Dream big and dare to fail. Optimization Neural Networks
 Serverless Pull Request Work hard in silence, let your success be your noise. Predictive Analytics Monitoring WebSockets Big Data
+Load Testing Zero Downtime Deployment If you can dream it, you can do it. Predictive Analytics Server Response Microservices Success is how high you bounce when you hit bottom.
