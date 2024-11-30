@@ -7,3 +7,4 @@ Serverless Data Pipeline A/B Testing Database JavaScript Container Orchestration
 Message Queue Scalability GraphQL Agile The only way to do great work is to love what you do.
 Quantum Computing GraphQL Version Control Docker DNS Routing Neural Networks Automation Act as if what you do makes a difference. It does. Replica Set Code Review Predictive Analytics
 Agile Message Queue Monitoring If you can dream it, you can do it. Machine Learning The only way to do great work is to love what you do. Code Review
+Kubernetes Cloud Functions Machine Learning JWT Python Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Kafka Testing Dream big and dare to fail. Sharding Parallel Processing
