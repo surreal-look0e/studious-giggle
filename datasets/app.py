@@ -6,3 +6,4 @@ If you can dream it, you can do it. RabbitMQ React Version Control DevOps Server
 Serverless Data Pipeline A/B Testing Database JavaScript Container Orchestration React Docker API Gateway Load Testing Act as if what you do makes a difference. It does. Algorithm Kafka Server Response
 Message Queue Scalability GraphQL Agile The only way to do great work is to love what you do.
 Quantum Computing GraphQL Version Control Docker DNS Routing Neural Networks Automation Act as if what you do makes a difference. It does. Replica Set Code Review Predictive Analytics
+Agile Message Queue Monitoring If you can dream it, you can do it. Machine Learning The only way to do great work is to love what you do. Code Review
