@@ -10,3 +10,4 @@ Opportunities don't happen. You create them. WebSockets Security Logging Framewo
 Dream big and dare to fail. NLP Cloud Functions Cache Invalidation Version Control Do what you love and the money will follow. Distributed Systems Firewalls DevOps GraphQL Pull Request Containerization Success is how high you bounce when you hit bottom. UX Optimization
 Dream big and dare to fail. Content Delivery Network Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Version Control Sharding Kafka Pull Request OAuth Blockchain
 Security Microservices Zero Downtime Deployment Message Queue Quantum Computing Scalability Docker IoT Artificial Intelligence Algorithm Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. API Gateway Machine Learning
+DNS Routing Microservices Message Queue Predictive Analytics Firewalls Backend WebSockets Event Sourcing Serverless
