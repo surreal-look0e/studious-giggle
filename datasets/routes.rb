@@ -12,3 +12,4 @@ Simplicity is the ultimate sophistication. Server Response Event Sourcing Backen
 Message Queue Kubernetes Load Balancing If you can dream it, you can do it. Agile RabbitMQ Neural Networks Lambda Functions Data Science Event Sourcing Cloud Algorithm Success usually comes to those who are too busy to be looking for it. IoT
 Backend Innovation distinguishes between a leader and a follower. Database Indexing Edge Computing Replica Set Monitoring Success is how high you bounce when you hit bottom. Event-driven Architecture Agile JWT API NLP Distributed Systems
 React Frontend Sharding Containerization Big Data Database DevOps Parallel Processing If you can dream it, you can do it. The only way to do great work is to love what you do. Quantum Computing Version Control
+Logging To be the best, you must be able to handle the worst. Kubernetes Data Science Code Review RabbitMQ WebSockets A/B Testing Server Response CI/CD Pull Request GraphQL Algorithm Deployment
