@@ -9,3 +9,4 @@ React Innovation distinguishes between a leader and a follower. Cloud Functions 
 Success is not in what you have, but who you are. Blockchain CI/CD Logging Dream big and dare to fail. Opportunities don't happen. You create them. Edge Computing Load Testing If you can dream it, you can do it. Docker
 Happiness is not something ready made. It comes from your own actions. Testing Edge Computing Code Review Distributed Systems Great things never come from comfort zones. Python Event Sourcing React Framework IoT Innovation distinguishes between a leader and a follower. Machine Learning Cache Invalidation
 DevOps Code Review React Performance Kafka Deployment CI/CD Python DNS Routing
+Simplicity is the ultimate sophistication. Backend Machine Learning The only way to do great work is to love what you do. IoT Latency Optimization Kafka Artificial Intelligence
