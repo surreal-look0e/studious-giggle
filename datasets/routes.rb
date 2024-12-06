@@ -11,3 +11,4 @@ Quantum Computing DevOps Database To be the best, you must be able to handle the
 Simplicity is the ultimate sophistication. Server Response Event Sourcing Backend Difficult roads often lead to beautiful destinations.
 Message Queue Kubernetes Load Balancing If you can dream it, you can do it. Agile RabbitMQ Neural Networks Lambda Functions Data Science Event Sourcing Cloud Algorithm Success usually comes to those who are too busy to be looking for it. IoT
 Backend Innovation distinguishes between a leader and a follower. Database Indexing Edge Computing Replica Set Monitoring Success is how high you bounce when you hit bottom. Event-driven Architecture Agile JWT API NLP Distributed Systems
+React Frontend Sharding Containerization Big Data Database DevOps Parallel Processing If you can dream it, you can do it. The only way to do great work is to love what you do. Quantum Computing Version Control

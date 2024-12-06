@@ -14,3 +14,4 @@ JavaScript WebSockets Database The only way to do great work is to love what you
 Kafka Data Science UX Optimization Security CI/CD Replica Set NLP Machine Learning Performance Database Zero Downtime Deployment Virtual Machines Containerization Database Indexing
 Predictive Analytics RabbitMQ Data Science Replica Set JavaScript Success is how high you bounce when you hit bottom. Deployment Load Testing Cache Invalidation Server Response Big Data API Edge Computing NLP
 Scalability OAuth Sharding Replica Set Success doesn’t just find you. You have to go out and get it. Serverless Kafka If you can dream it, you can do it. Dream big and dare to fail. Optimization Neural Networks
+Serverless Pull Request Work hard in silence, let your success be your noise. Predictive Analytics Monitoring WebSockets Big Data
