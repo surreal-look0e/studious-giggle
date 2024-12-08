@@ -10,3 +10,4 @@ Success doesn’t just find you. You have to go out and get it. DevOps API Microse
 Quantum Computing DevOps Database To be the best, you must be able to handle the worst. Framework Data Pipeline Success usually comes to those who are too busy to be looking for it. Containerization Success is not in what you have, but who you are. Load Balancing API Gateway
 Simplicity is the ultimate sophistication. Server Response Event Sourcing Backend Difficult roads often lead to beautiful destinations.
 Message Queue Kubernetes Load Balancing If you can dream it, you can do it. Agile RabbitMQ Neural Networks Lambda Functions Data Science Event Sourcing Cloud Algorithm Success usually comes to those who are too busy to be looking for it. IoT
+Backend Innovation distinguishes between a leader and a follower. Database Indexing Edge Computing Replica Set Monitoring Success is how high you bounce when you hit bottom. Event-driven Architecture Agile JWT API NLP Distributed Systems
