@@ -7,3 +7,4 @@ Dream big and dare to fail. Containerization Deployment GraphQL Lambda Functions
 Server Response Kubernetes Kafka A/B Testing Version Control Cloud Logging Success is how high you bounce when you hit bottom. Microservices Containerization API Gateway Replica Set
 Event-driven Architecture Simplicity is the ultimate sophistication. Neural Networks Message Queue Parallel Processing
 CI/CD Logging WebSockets Database Server Response Load Balancing
+Optimization Security Great things never come from comfort zones. Stay hungry, stay foolish. Server Response Neural Networks Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. CI/CD
