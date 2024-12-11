@@ -12,3 +12,4 @@ Kubernetes Agile Success is how high you bounce when you hit bottom. Optimizatio
 Event-driven Architecture Predictive Analytics Testing Microservices Machine Learning Edge Computing Simplicity is the ultimate sophistication. Kafka OAuth Cloud Dream big and dare to fail. Logging Success is not in what you have, but who you are. Optimization
 JavaScript WebSockets Database The only way to do great work is to love what you do. Latency Optimization Sharding Distributed Systems
 Kafka Data Science UX Optimization Security CI/CD Replica Set NLP Machine Learning Performance Database Zero Downtime Deployment Virtual Machines Containerization Database Indexing
+Predictive Analytics RabbitMQ Data Science Replica Set JavaScript Success is how high you bounce when you hit bottom. Deployment Load Testing Cache Invalidation Server Response Big Data API Edge Computing NLP
