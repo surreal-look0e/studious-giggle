@@ -6,3 +6,4 @@ Parallel Processing Quantum Computing Great things never come from comfort zones
 Dream big and dare to fail. Containerization Deployment GraphQL Lambda Functions Scalability Performance A/B Testing Work hard in silence, let your success be your noise.
 Server Response Kubernetes Kafka A/B Testing Version Control Cloud Logging Success is how high you bounce when you hit bottom. Microservices Containerization API Gateway Replica Set
 Event-driven Architecture Simplicity is the ultimate sophistication. Neural Networks Message Queue Parallel Processing
+CI/CD Logging WebSockets Database Server Response Load Balancing
