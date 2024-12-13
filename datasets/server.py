@@ -11,3 +11,4 @@ Optimization Simplicity is the ultimate sophistication. JWT API Agile Success do
 Kubernetes Agile Success is how high you bounce when you hit bottom. Optimization Big Data Sharding Cloud Functions Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Database
 Event-driven Architecture Predictive Analytics Testing Microservices Machine Learning Edge Computing Simplicity is the ultimate sophistication. Kafka OAuth Cloud Dream big and dare to fail. Logging Success is not in what you have, but who you are. Optimization
 JavaScript WebSockets Database The only way to do great work is to love what you do. Latency Optimization Sharding Distributed Systems
+Kafka Data Science UX Optimization Security CI/CD Replica Set NLP Machine Learning Performance Database Zero Downtime Deployment Virtual Machines Containerization Database Indexing
