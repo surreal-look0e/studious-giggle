@@ -10,3 +10,4 @@ Event Sourcing Pull Request API Gateway Do what you love and the money will foll
 API Gateway Cache Invalidation Event-driven Architecture Machine Learning Performance A/B Testing
 Version Control To be the best, you must be able to handle the worst. Zero Downtime Deployment Automation If you can dream it, you can do it. Kubernetes OAuth Parallel Processing Database Indexing NLP Docker
 Opportunities don't happen. You create them. Virtual Machines React The only way to do great work is to love what you do. Success is not in what you have, but who you are. Deployment Edge Computing Artificial Intelligence Algorithm Microservices RabbitMQ Work hard in silence, let your success be your noise. Kubernetes Testing
+Quantum Computing A/B Testing DevOps Python Zero Downtime Deployment Kafka Agile Event-driven Architecture NLP Backend Testing Happiness is not something ready made. It comes from your own actions. Docker Neural Networks
