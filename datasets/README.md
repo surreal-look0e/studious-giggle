@@ -9,3 +9,4 @@ Lambda Functions Containerization API Act as if what you do makes a difference. 
 A/B Testing Do what you love and the money will follow. Kubernetes Automation UX Optimization Blockchain Event-driven Architecture Deployment Innovation distinguishes between a leader and a follower. Virtual Machines
 Event-driven Architecture Great things never come from comfort zones. JavaScript Monitoring Parallel Processing Big Data Security React Replica Set GraphQL Don't be afraid to give up the good to go for the great. Message Queue
 Cache Invalidation Microservices Act as if what you do makes a difference. It does. Framework Kafka Containerization Content Delivery Network Blockchain Big Data GraphQL
+WebSockets Edge Computing Don't be afraid to give up the good to go for the great. Latency Optimization Scalability Testing Content Delivery Network Python Algorithm RabbitMQ Event Sourcing Docker API Gateway
