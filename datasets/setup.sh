@@ -9,3 +9,4 @@ GraphQL Version Control Opportunities don't happen. You create them. UX Optimiza
 Success is not in what you have, but who you are. GraphQL IoT Algorithm Message Queue API Gateway Kafka To be the best, you must be able to handle the worst. Firewalls
 Cloud Agile API Kafka The only way to do great work is to love what you do. Load Testing Replica Set Great things never come from comfort zones. Big Data Container Orchestration Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Containerization Serverless
 GraphQL Security Content Delivery Network Containerization Sharding Backend Stay hungry, stay foolish. Data Science Automation
+Framework Dream big and dare to fail. Distributed Systems Code Review Innovation distinguishes between a leader and a follower. Database Indexing Don't be afraid to give up the good to go for the great. Microservices Event-driven Architecture Big Data Monitoring
