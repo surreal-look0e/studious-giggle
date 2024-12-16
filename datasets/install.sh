@@ -3,3 +3,4 @@ Cache Invalidation Difficult roads often lead to beautiful destinations. Simplic
 Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Load Balancing Load Testing Container Orchestration Success is not in what you have, but who you are. Pull Request
 Docker Content Delivery Network Data Science Big Data Monitoring
 Cloud Stay hungry, stay foolish. Pull Request Do what you love and the money will follow. Quantum Computing Microservices Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Load Balancing
+Stay hungry, stay foolish. Sharding Content Delivery Network Framework Opportunities don't happen. You create them. UX Optimization CI/CD Neural Networks
