@@ -8,3 +8,4 @@ Virtual Machines Kubernetes Container Orchestration Backend Big Data Containeriz
 Backend Security Serverless Sharding Load Balancing Multi-threading A/B Testing
 UX Optimization Load Balancing Agile DevOps Firewalls Monitoring Python Event-driven Architecture Parallel Processing Server Response Latency Optimization Serverless
 Data Pipeline Latency Optimization Stay hungry, stay foolish. Monitoring Dream big and dare to fail. Great things never come from comfort zones. Logging Database Simplicity is the ultimate sophistication. Edge Computing Distributed Systems Kafka If you can dream it, you can do it. API
+IoT Monitoring Version Control Algorithm A/B Testing WebSockets CI/CD Success usually comes to those who are too busy to be looking for it. Pull Request Work hard in silence, let your success be your noise. Virtual Machines JWT Predictive Analytics
