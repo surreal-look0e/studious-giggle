@@ -6,3 +6,4 @@ Success is how high you bounce when you hit bottom. JavaScript Container Orchest
 OAuth Firewalls Quantum Computing Containerization Event Sourcing Algorithm Agile React I find that the harder I work, the more luck I seem to have. Optimization Zero Downtime Deployment IoT Microservices Replica Set Sharding
 Virtual Machines Kubernetes Container Orchestration Backend Big Data Containerization
 Backend Security Serverless Sharding Load Balancing Multi-threading A/B Testing
+UX Optimization Load Balancing Agile DevOps Firewalls Monitoring Python Event-driven Architecture Parallel Processing Server Response Latency Optimization Serverless
