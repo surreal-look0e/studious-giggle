@@ -8,3 +8,4 @@ CI/CD NLP Success doesn’t just find you. You have to go out and get it. WebSocke
 Virtual Machines Success is how high you bounce when you hit bottom. IoT Server Response Dream big and dare to fail.
 Content Delivery Network Difficult roads often lead to beautiful destinations. Data Science GraphQL Logging RabbitMQ Scalability Work hard in silence, let your success be your noise. Framework Docker Virtual Machines Lambda Functions Multi-threading
 Optimization Simplicity is the ultimate sophistication. JWT API Agile Success doesn’t just find you. You have to go out and get it. API Gateway If you can dream it, you can do it. Monitoring Database Indexing Lambda Functions To be the best, you must be able to handle the worst. RabbitMQ Logging Automation
+Kubernetes Agile Success is how high you bounce when you hit bottom. Optimization Big Data Sharding Cloud Functions Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Database
