@@ -8,3 +8,4 @@ Microservices Testing Neural Networks Sharding Optimization Don't be afraid to g
 Lambda Functions Security Server Response NLP Message Queue Parallel Processing Monitoring JavaScript Microservices
 Success doesn’t just find you. You have to go out and get it. DevOps API Microservices Database A/B Testing API Gateway
 Quantum Computing DevOps Database To be the best, you must be able to handle the worst. Framework Data Pipeline Success usually comes to those who are too busy to be looking for it. Containerization Success is not in what you have, but who you are. Load Balancing API Gateway
+Simplicity is the ultimate sophistication. Server Response Event Sourcing Backend Difficult roads often lead to beautiful destinations.
