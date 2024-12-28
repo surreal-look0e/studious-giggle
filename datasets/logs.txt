@@ -1,1 +1,2 @@
 The only way to do great work is to love what you do. DNS Routing JWT To be the best, you must be able to handle the worst. Scalability GraphQL I find that the harder I work, the more luck I seem to have. Multi-threading Success is how high you bounce when you hit bottom. Sharding A/B Testing
+Framework Monitoring Success is not in what you have, but who you are. Do what you love and the money will follow. OAuth Container Orchestration Cache Invalidation Server Response Dream big and dare to fail. Code Review Logging
