@@ -3,3 +3,4 @@ API Automation DNS Routing Kubernetes Backend Framework UX Optimization Algorith
 Agile Don't be afraid to give up the good to go for the great. Virtual Machines A/B Testing Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Stay hungry, stay foolish. Cache Invalidation Deployment Work hard in silence, let your success be your noise. RabbitMQ Big Data Kafka GraphQL Framework
 To be the best, you must be able to handle the worst. Big Data Agile Firewalls Testing
 Firewalls Docker Data Science Happiness is not something ready made. It comes from your own actions. Pull Request Load Balancing Automation
+CI/CD Blockchain Simplicity is the ultimate sophistication. JWT Happiness is not something ready made. It comes from your own actions. GraphQL I find that the harder I work, the more luck I seem to have.
