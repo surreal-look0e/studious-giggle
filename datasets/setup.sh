@@ -7,3 +7,4 @@ Server Response Containerization API Gateway Event-driven Architecture Lambda Fu
 Happiness is not something ready made. It comes from your own actions. Container Orchestration Big Data Server Response Logging DNS Routing Virtual Machines Artificial Intelligence
 GraphQL Version Control Opportunities don't happen. You create them. UX Optimization Happiness is not something ready made. It comes from your own actions. Deployment React
 Success is not in what you have, but who you are. GraphQL IoT Algorithm Message Queue API Gateway Kafka To be the best, you must be able to handle the worst. Firewalls
+Cloud Agile API Kafka The only way to do great work is to love what you do. Load Testing Replica Set Great things never come from comfort zones. Big Data Container Orchestration Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Containerization Serverless
