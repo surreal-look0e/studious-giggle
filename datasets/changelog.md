@@ -5,3 +5,4 @@ Success usually comes to those who are too busy to be looking for it. Neural Net
 Version Control WebSockets I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Data Science Success doesn’t just find you. You have to go out and get it. Quantum Computing
 Scalability DevOps Data Science Version Control A/B Testing Cloud Pull Request NLP Optimization Database Indexing Distributed Systems Performance Sharding Cache Invalidation Frontend
 Cloud Functions Opportunities don't happen. You create them. Container Orchestration Content Delivery Network Monitoring RabbitMQ
+React Innovation distinguishes between a leader and a follower. Cloud Functions GraphQL The only way to do great work is to love what you do. Data Science Lambda Functions Multi-threading Pull Request Automation Neural Networks Predictive Analytics UX Optimization

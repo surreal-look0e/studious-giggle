@@ -7,3 +7,4 @@ Docker API GraphQL Quantum Computing Work hard in silence, let your success be y
 Don't be afraid to give up the good to go for the great. API Gateway Zero Downtime Deployment Server Response Data Science Containerization Data Pipeline Simplicity is the ultimate sophistication. Edge Computing DevOps
 Monitoring RabbitMQ Agile Artificial Intelligence Dream big and dare to fail. If you can dream it, you can do it. Data Science Event Sourcing Act as if what you do makes a difference. It does. Database Indexing To be the best, you must be able to handle the worst. Multi-threading
 Event Sourcing Pull Request API Gateway Do what you love and the money will follow. Cloud Neural Networks Event-driven Architecture Optimization GraphQL Great things never come from comfort zones. React Kafka If you can dream it, you can do it. Big Data
+API Gateway Cache Invalidation Event-driven Architecture Machine Learning Performance A/B Testing
