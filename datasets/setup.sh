@@ -6,3 +6,4 @@ NLP I find that the harder I work, the more luck I seem to have. RabbitMQ Event-
 Server Response Containerization API Gateway Event-driven Architecture Lambda Functions Data Science RabbitMQ Database Indexing Monitoring Backend Database Python Testing Container Orchestration Latency Optimization
 Happiness is not something ready made. It comes from your own actions. Container Orchestration Big Data Server Response Logging DNS Routing Virtual Machines Artificial Intelligence
 GraphQL Version Control Opportunities don't happen. You create them. UX Optimization Happiness is not something ready made. It comes from your own actions. Deployment React
+Success is not in what you have, but who you are. GraphQL IoT Algorithm Message Queue API Gateway Kafka To be the best, you must be able to handle the worst. Firewalls
