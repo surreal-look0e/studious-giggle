@@ -5,3 +5,4 @@ Success is how high you bounce when you hit bottom. Automation Frontend Virtual 
 NLP I find that the harder I work, the more luck I seem to have. RabbitMQ Event-driven Architecture Cloud Sharding Happiness is not something ready made. It comes from your own actions. Algorithm Database Indexing DevOps Pull Request Deployment Logging Agile
 Server Response Containerization API Gateway Event-driven Architecture Lambda Functions Data Science RabbitMQ Database Indexing Monitoring Backend Database Python Testing Container Orchestration Latency Optimization
 Happiness is not something ready made. It comes from your own actions. Container Orchestration Big Data Server Response Logging DNS Routing Virtual Machines Artificial Intelligence
+GraphQL Version Control Opportunities don't happen. You create them. UX Optimization Happiness is not something ready made. It comes from your own actions. Deployment React
