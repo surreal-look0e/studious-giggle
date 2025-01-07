@@ -6,3 +6,4 @@ Parallel Processing A/B Testing Stay hungry, stay foolish. If you can dream it, 
 A/B Testing Container Orchestration Predictive Analytics Data Science Python Dream big and dare to fail. Parallel Processing I find that the harder I work, the more luck I seem to have. Performance
 CI/CD NLP Success doesn’t just find you. You have to go out and get it. WebSockets Distributed Systems
 Virtual Machines Success is how high you bounce when you hit bottom. IoT Server Response Dream big and dare to fail.
+Content Delivery Network Difficult roads often lead to beautiful destinations. Data Science GraphQL Logging RabbitMQ Scalability Work hard in silence, let your success be your noise. Framework Docker Virtual Machines Lambda Functions Multi-threading
