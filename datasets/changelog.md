@@ -4,3 +4,4 @@ Version Control Database Indexing Container Orchestration Security Success doesn
 Success usually comes to those who are too busy to be looking for it. Neural Networks Containerization Algorithm UX Optimization Great things never come from comfort zones. JavaScript
 Version Control WebSockets I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Data Science Success doesn’t just find you. You have to go out and get it. Quantum Computing
 Scalability DevOps Data Science Version Control A/B Testing Cloud Pull Request NLP Optimization Database Indexing Distributed Systems Performance Sharding Cache Invalidation Frontend
+Cloud Functions Opportunities don't happen. You create them. Container Orchestration Content Delivery Network Monitoring RabbitMQ
