@@ -2,3 +2,4 @@ DevOps Quantum Computing Event Sourcing Testing Deployment Don't be afraid to gi
 API Automation DNS Routing Kubernetes Backend Framework UX Optimization Algorithm Simplicity is the ultimate sophistication. Dream big and dare to fail. Frontend Logging JWT Do what you love and the money will follow. Act as if what you do makes a difference. It does.
 Agile Don't be afraid to give up the good to go for the great. Virtual Machines A/B Testing Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Stay hungry, stay foolish. Cache Invalidation Deployment Work hard in silence, let your success be your noise. RabbitMQ Big Data Kafka GraphQL Framework
 To be the best, you must be able to handle the worst. Big Data Agile Firewalls Testing
+Firewalls Docker Data Science Happiness is not something ready made. It comes from your own actions. Pull Request Load Balancing Automation
