@@ -5,3 +5,4 @@ Multi-threading Firewalls Testing Database Indexing Scalability
 Parallel Processing A/B Testing Stay hungry, stay foolish. If you can dream it, you can do it. Data Pipeline Container Orchestration DNS Routing Microservices
 A/B Testing Container Orchestration Predictive Analytics Data Science Python Dream big and dare to fail. Parallel Processing I find that the harder I work, the more luck I seem to have. Performance
 CI/CD NLP Success doesn’t just find you. You have to go out and get it. WebSockets Distributed Systems
+Virtual Machines Success is how high you bounce when you hit bottom. IoT Server Response Dream big and dare to fail.
