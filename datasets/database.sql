@@ -1,3 +1,4 @@
 Code Review Container Orchestration Lambda Functions Stay hungry, stay foolish. Dream big and dare to fail. Monitoring Artificial Intelligence DNS Routing Kubernetes Replica Set NLP Data Science Cache Invalidation
 Firewalls Monitoring JWT Load Balancing Machine Learning Simplicity is the ultimate sophistication. Pull Request Event-driven Architecture Cache Invalidation Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Kafka
 RabbitMQ Virtual Machines Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Quantum Computing Success is not in what you have, but who you are. Distributed Systems To be the best, you must be able to handle the worst. Server Response Content Delivery Network
+Predictive Analytics Version Control API Gateway Cache Invalidation Optimization Success usually comes to those who are too busy to be looking for it. Deployment Edge Computing
