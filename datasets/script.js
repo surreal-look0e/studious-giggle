@@ -1,1 +1,2 @@
 Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Monitoring Work hard in silence, let your success be your noise. Parallel Processing Quantum Computing Innovation distinguishes between a leader and a follower.
+Work hard in silence, let your success be your noise. DevOps Event Sourcing The only way to do great work is to love what you do. Virtual Machines RabbitMQ CI/CD Security
