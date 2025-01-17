@@ -1,1 +1,2 @@
 Code Review Container Orchestration Lambda Functions Stay hungry, stay foolish. Dream big and dare to fail. Monitoring Artificial Intelligence DNS Routing Kubernetes Replica Set NLP Data Science Cache Invalidation
+Firewalls Monitoring JWT Load Balancing Machine Learning Simplicity is the ultimate sophistication. Pull Request Event-driven Architecture Cache Invalidation Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Kafka
