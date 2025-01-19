@@ -1,1 +1,2 @@
 Monitoring Agile Dream big and dare to fail. Act as if what you do makes a difference. It does. Microservices Python Cache Invalidation Data Science Automation Server Response Algorithm Blockchain Security
+NLP Microservices OAuth Cache Invalidation Data Pipeline Agile Simplicity is the ultimate sophistication. Automation Act as if what you do makes a difference. It does. Event Sourcing Testing Database RabbitMQ

@@ -6,3 +6,4 @@ To be the best, you must be able to handle the worst. UX Optimization Kafka OAut
 Deployment Success usually comes to those who are too busy to be looking for it. API Pull Request Security
 Happiness is not something ready made. It comes from your own actions. Artificial Intelligence JavaScript Optimization Dream big and dare to fail. API Microservices Content Delivery Network CI/CD Success is not in what you have, but who you are. Performance
 Lambda Functions Containerization API Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. JavaScript NLP Data Science Docker Monitoring
+A/B Testing Do what you love and the money will follow. Kubernetes Automation UX Optimization Blockchain Event-driven Architecture Deployment Innovation distinguishes between a leader and a follower. Virtual Machines
