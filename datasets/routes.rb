@@ -1,2 +1,3 @@
 Event Sourcing Agile IoT The only way to do great work is to love what you do. DNS Routing Backend RabbitMQ Testing Simplicity is the ultimate sophistication. Frontend Docker Deployment Parallel Processing
 Algorithm Cloud Functions Containerization Content Delivery Network Blockchain RabbitMQ Load Testing Sharding Optimization Microservices Quantum Computing Don't be afraid to give up the good to go for the great. Agile Zero Downtime Deployment Success is how high you bounce when you hit bottom.
+Innovation distinguishes between a leader and a follower. Artificial Intelligence Backend Data Pipeline JavaScript Agile Event Sourcing
