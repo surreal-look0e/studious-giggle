@@ -1,1 +1,2 @@
 Message Queue Zero Downtime Deployment Pull Request Dream big and dare to fail. Great things never come from comfort zones. Distributed Systems Deployment Logging Cloud Don't be afraid to give up the good to go for the great. Firewalls
+Serverless Agile Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. Replica Set Artificial Intelligence Pull Request Optimization Success is how high you bounce when you hit bottom. Parallel Processing Database Simplicity is the ultimate sophistication. Kafka Machine Learning
