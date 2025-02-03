@@ -1,1 +1,2 @@
 I find that the harder I work, the more luck I seem to have. Event Sourcing Deployment API Gateway Performance Version Control Lambda Functions Optimization Cloud JWT Message Queue Kubernetes Frontend Data Pipeline
+Cache Invalidation Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Backend Container Orchestration Machine Learning Frontend Opportunities don't happen. You create them. Deployment To be the best, you must be able to handle the worst. Firewalls Microservices Kafka
