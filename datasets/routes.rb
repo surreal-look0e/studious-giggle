@@ -1,0 +1,1 @@
+Event Sourcing Agile IoT The only way to do great work is to love what you do. DNS Routing Backend RabbitMQ Testing Simplicity is the ultimate sophistication. Frontend Docker Deployment Parallel Processing
