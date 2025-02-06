@@ -1,0 +1,1 @@
+Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Monitoring Work hard in silence, let your success be your noise. Parallel Processing Quantum Computing Innovation distinguishes between a leader and a follower.
