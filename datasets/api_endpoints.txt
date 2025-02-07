@@ -1,1 +1,2 @@
 Latency Optimization Pull Request RabbitMQ Edge Computing Event-driven Architecture Python Virtual Machines Message Queue A/B Testing
+Kubernetes Machine Learning Event Sourcing Act as if what you do makes a difference. It does. Data Pipeline Multi-threading Performance Containerization
